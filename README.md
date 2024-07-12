@@ -51,7 +51,7 @@ BEGIN_SUPPRESS_WARNINGS
 END_SUPPRESS_WARNINGS
 ```
 
-## Gettings Help
+## Getting Help
 
 ### Further links
 
